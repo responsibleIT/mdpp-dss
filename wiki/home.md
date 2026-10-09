@@ -23,8 +23,6 @@ This repository contains the portfolio material for my graduation research. The 
 - [Report folder](../rapport) - report outputs and supporting material.
 - [Code folder](../code) - notebooks and dependency list for the prototype work.
 - [Research overview](Research.md) overview of research documents and choices made.
-- [Planning and progress](../rapport/research/planning.md) - project planning and progress notes.
-- [GenAI use documentation](../rapport/research/genai.md) - prompts and examples of GenAI-supported work.
 - [Image stability check](Image-Embedding-Stability.md) a check on how stable cosine similarity is on validation for each CNN model.
 
 ## Code and Notebook Order

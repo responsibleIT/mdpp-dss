@@ -27,8 +27,6 @@ The current primary deliverable is the 100% report:
 - [Research notes](./rapport/research/) - source notes, design notes, diagrams, and process documentation.
 - [Portfolio wiki](./wiki/home.md) - the portfolio wiki pages, exported to Markdown (listed below).
 - [Research summary](./wiki/Research.md) - summary of the research done alongside the thesis.
-- [Planning and progress](./rapport/research/planning.md) - project planning and progress notes.
-- [GenAI use documentation](./rapport/research/genai.md) - prompts and examples of GenAI-supported work.
 - [Image embedding stability](./wiki/Image-Embedding-Stability.md) - test to see how stable image embeddings from the CNN are under slight variations.
 
 ## Code and Notebook Order
